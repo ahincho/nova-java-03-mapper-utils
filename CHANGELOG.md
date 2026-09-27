@@ -22,5 +22,5 @@
 ### Bug Fixes
 
 * **ci:** inline publish-on-tag and remove dirty closure for Gradle 9.6.1 ([c3b1218](https://github.com/ahincho/nova-java-mapper-utils/commit/c3b12186bb11c14f4520e0200fd765175d267c85))
-* **ci:** update reusable workflow refs from OWNER/galaxy-training-devops to ahincho/nova-devops ([7016254](https://github.com/ahincho/nova-java-mapper-utils/commit/701625406ddb866f17ab07da27852d6d4d7c3045))
+* **ci:** update reusable workflow refs to ahincho/nova-devops ([7016254](https://github.com/ahincho/nova-java-mapper-utils/commit/701625406ddb866f17ab07da27852d6d4d7c3045))
 * **ci:** use PAT fallback for release-please to enable tag-triggered workflows ([1fbc9c0](https://github.com/ahincho/nova-java-mapper-utils/commit/1fbc9c07ce78f67514d44765fa1ede0bb34bf3a7))
