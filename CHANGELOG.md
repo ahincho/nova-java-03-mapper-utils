@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ahincho/nova-java-03-mapper-utils/compare/v1.0.1...v1.0.2) (2026-09-27)
+
+
+### Documentation
+
+* add a README and adopt EPL-2.0 ([8673ae4](https://github.com/ahincho/nova-java-03-mapper-utils/commit/8673ae42924424158c7653cc9b4715ca285f68ca))
+
 ## [1.0.1](https://github.com/ahincho/nova-java-mapper-utils/compare/v1.0.0...v1.0.1) (2026-07-13)
 
 
